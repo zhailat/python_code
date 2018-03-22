@@ -32,6 +32,7 @@
 # All used packages and libraries.
 # Before running the code, make sure all of the following packages are installed.
 # Get beautifulsoup4 with: pip install beautifulsoup4
+# This code is compatible with Python 2.7
 ##-----------------------------------------------
 import urllib2
 import bs4
